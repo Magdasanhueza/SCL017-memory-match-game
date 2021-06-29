@@ -119,11 +119,11 @@ function reset() {
 //( mientras tenga un hijo, remuevelo). parent.removechild lo limpia
 
 
-const main = {
-  buttonStart,
-  flipCard,
+//const main = {
+  //buttonStart,
+ // flipCard,
   //backToFront,
   //frontToBack,
-  reset,
-};
+ // reset,
+//};
 
